@@ -2,10 +2,10 @@ Mai Shan Yun: Sales & Inventory Intelligence Dashboard
 
 Team: Data Darinde
 
-      Avneesh Dubey
-      Aditya Ghodke
-      Debmalya Chatterjee
-      Durgesh Bhirud
+Avneesh Dubey
+Aditya Raao Ghodke
+Debmalya Chatterjee
+Durgesh Bhirud
 
 Challenge: The Mai Shan Yun Inventory Intelligence Challenge
 
@@ -72,14 +72,14 @@ Place your Final_Data.csv file in the same directory as the mai_shan_yun_app.py 
 
 Open your terminal, navigate to the project folder, and install the required libraries:
 
-pip install streamlit pandas plotly
+      pip install streamlit pandas plotly
 
 
 Running the Dashboard
 
 In your terminal, run the following command:
 
-streamlit run mai_shan_yun_app.py
+      streamlit run mai_shan_yun_app.py
 
 
 Your web browser will automatically open to the dashboard.
@@ -126,4 +126,5 @@ Action: The manager looks at the "Revenue Breakdown" Treemap.
 
 
 Result: They instantly see that "Noodle Dishes" and "Rice Dishes" make up the vast majority of their sales, while "Drinks" and "Appetizers" are tiny categories. This provides a clear, data-driven insight to create a "Combo" or "Bundle" (e.g., "Noodle Dish + Drink for $2 more") to boost the sales of their high-margin, low-performing categories.
+
 
