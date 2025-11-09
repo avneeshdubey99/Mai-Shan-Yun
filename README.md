@@ -1,10 +1,11 @@
 Mai Shan Yun: Sales & Inventory Intelligence Dashboard
 
 Team: Data Darinde
-Avneesh Dubey
-Aditya Ghodke
-Debmalya Chatterjee
-Durgesh Bhirud
+
+      Avneesh Dubey
+      Aditya Ghodke
+      Debmalya Chatterjee
+      Durgesh Bhirud
 
 Challenge: The Mai Shan Yun Inventory Intelligence Challenge
 
@@ -125,3 +126,4 @@ Action: The manager looks at the "Revenue Breakdown" Treemap.
 
 
 Result: They instantly see that "Noodle Dishes" and "Rice Dishes" make up the vast majority of their sales, while "Drinks" and "Appetizers" are tiny categories. This provides a clear, data-driven insight to create a "Combo" or "Bundle" (e.g., "Noodle Dish + Drink for $2 more") to boost the sales of their high-margin, low-performing categories.
+
